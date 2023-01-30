@@ -10,10 +10,10 @@ My areas of interest: reading books 📚, kite surfing 🏄‍♂️ and enginee
 
 Soo if you are interested in connecting, do not hesitate to drop me a message! 👊
 
-<div align="center" style="display: flex; gap: 2.5rem; justify-content: center; margin: 2rem 0">
+<!-- <div align="center" style="display: flex; gap: 2.5rem; justify-content: center; margin: 2rem 0">
   <a href="#engineering-managers-readme" style="font-size: 1.5rem; font-weight: 500; text-decoration: underline; outline: none">README</a>
   <a href="#recommendations" style="font-size: 1.5rem; font-weight: 500; text-decoration: underline; outline: none">Recommendations</a>
-</div>
+</div> -->
 
 > This document is still a work in progress. I promise to maintain it to be documentation on me
 
