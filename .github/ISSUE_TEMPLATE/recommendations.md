@@ -1,10 +1,10 @@
 ---
 name: Recommendations
-about: Share your recommendations for books, articles, or tools with me!
-title: ''
+about: Share questions or thoughts with me
+title: 'I have something for you'
 labels: ''
 assignees: lukasvarkalis
 
 ---
 
-**👋 Hey Lukas! I have a recommendation for you!**
+**Lukas: 👋 Hey, thank you for creating an issue. Please tell me what you would like to share with me.**
