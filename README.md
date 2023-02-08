@@ -1,7 +1,7 @@
 # <p align="center">👋 Hey there, nice to meet you!</p>
 
 <p align="center">
-  <a href="http://linkedin.com/in/lukasvarkalis/" target="_blank">LinkedIn</a> 
+  <a href="http://linkedin.com/in/lukasvarkalis/" target="_blank">LinkedIn</a> • <a href="https://substack.com/profile/13407834-lukas-varkalis" target="_blank">Substack</a> 
 </p>
 
 Engineering manager & software engineer Lukas Varklis from Lithuania ✌️🇱🇹
