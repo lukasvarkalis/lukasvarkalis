@@ -107,6 +107,7 @@ I like to share useful and interesting resources with others. Sharing is caring!
 - [Managing Up](https://podcasts.apple.com/us/podcast/managing-up/id1412411569)
 - [Technology Podcast](https://podcasts.apple.com/lt/podcast/thoughtworks-technology-podcast/id881136697)
 - [All-in](https://podcasts.apple.com/us/podcast/all-in-with-chamath-jason-sacks-friedberg/id1502871393)
+- [Design Systems](https://podcasts.apple.com/lt/podcast/design-systems-podcast/id1491843793)
 
 ### 📚 Books
 
