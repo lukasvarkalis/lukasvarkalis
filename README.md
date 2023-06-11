@@ -108,7 +108,8 @@ I like to share useful and interesting resources with others. Sharing is caring!
 - [Technology Podcast](https://podcasts.apple.com/lt/podcast/thoughtworks-technology-podcast/id881136697)
 - [All-in](https://podcasts.apple.com/us/podcast/all-in-with-chamath-jason-sacks-friedberg/id1502871393)
 - [Design Systems](https://podcasts.apple.com/lt/podcast/design-systems-podcast/id1491843793)
-
+- [The Diary of CEO](https://podcasts.apple.com/lt/podcast/the-diary-of-a-ceo-with-steven-bartlett/id1291423644)
+- 
 ### 📚 Books
 
 - [The Manager's Path](https://www.goodreads.com/book/show/33369254-the-manager-s-path)
